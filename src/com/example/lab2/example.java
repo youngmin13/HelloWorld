@@ -9,7 +9,7 @@ class example {
   }
   void b01(){
 
-    int birth_year = 0;
+    int birth_year = 5;
     int age = 0;
 
     Scanner s = new Scanner(System.in);
